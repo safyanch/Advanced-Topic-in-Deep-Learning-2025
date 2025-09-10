@@ -1,0 +1,3 @@
+
+python -m venv structured_venv
+.\structured_venv\Scripts\activate 
